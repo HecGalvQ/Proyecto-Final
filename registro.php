@@ -41,6 +41,8 @@
         </div>
     </form>
 
+    <!-- Agregamos el botón para volver a index.php -->
+    <a href="index.php" class="volver-btn">Regresar</a>
 
     <script>
         function limpiarCampos() {
