@@ -1,0 +1,28 @@
+body {
+    background: linear-gradient(45deg, #AA77FF, #97DEFF, #AA77FF, #97FEED, #5EDFFF);
+    color: #fff;
+    font-family: 'Arial';
+
+   
+    align-items: center;
+    height: 100vh;
+}
+
+.ventana {
+    background-color: #BEADFA;
+    text-align: center;
+    border: 5px solid #B15EFF;
+    box-shadow: 5px 5px 5px rgb(111, 111, 111);
+    width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.tamaño{
+    padding: 10px;
+    text-align: center;
+}
+
