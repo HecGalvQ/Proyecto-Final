@@ -26,3 +26,26 @@ body {
     text-align: center;
 }
 
+.back-button{
+    background-color: #00A9FF;
+    color: #fff;
+    border: 3px solid #E4F1FF;
+    padding: 10px 20px;
+    text-decoration: none;
+
+}
+.back-button:hover{
+    background-color: #AED2FF;
+    transform: scale(1.1);
+}
+.Button-St{
+    background-color: #00A9FF;
+    color: #fff;
+    border: 3px solid #E4F1FF;
+    padding: 10px 20px;
+    text-decoration: none
+}
+.Button-St:hover{
+    background-color: #AED2FF;
+    transform: scale(1.1);
+}
