@@ -7,6 +7,7 @@ $pass = $_POST['password'];
 $q = "SELECT COUNT(*) AS contar FROM usuarios WHERE usuario= '$usuario' AND pass = '$pass'";
 
 
+$q = "SELECT COUNT(*) AS contar FROM usuarios WHERE usuario= '$usuario' AND pass = '$pass'";
 
 $consulta = mysqli_query($conexion,$q);
 
