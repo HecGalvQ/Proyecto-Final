@@ -1,0 +1,40 @@
+body{
+    background: radial-gradient(circle, #072541, #BEADFA);
+    text-align: center;
+}
+
+button{
+    background-color: #F4CE14;
+    color: #fff;
+    border: none;
+}
+button:hover {
+    background-color: #F6FCAE;
+    transform: scale(1.05);
+}
+
+.ventana {
+    background: linear-gradient(45deg, #CDF5FD, #7752FE);
+    text-align: center;
+    border: 5px solid #F4CE14;
+    box-shadow: 5px 5px 5px rgb(111, 111, 111);
+    width: 350px;
+    margin: 50px auto;
+    padding: 30px;
+    border-radius: 12px;
+}
+
+
+.tamaño{
+    padding: 10px;
+    text-align: center;
+}
+
+a{
+    background-color: #E9B824;
+    color: #F5F7F8;
+}
+a:hover{
+    background-color:#F4CE14 ;
+    transform: scale(1.05);
+}
